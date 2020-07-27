@@ -1,2 +1,3 @@
 # hello_world
-hhh
+
+print('hello world')
